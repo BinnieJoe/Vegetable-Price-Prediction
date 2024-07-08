@@ -1,4 +1,4 @@
 # Vegetable-price-prediction
-Use TensorFlow. Creating a multivariate linear regression model to predict vegetable prices
+A model that predicts price changes for agricultural products affected by the weather, including cabbage.
 
 ## Dataset
