@@ -7,6 +7,7 @@ You can find it on the Meteorological Data Open Portal.
 For the price of cabbage, data was extracted from sites such as agricultural product distribution information.
 
 ## Requirements
+- tensorflow
 - pytorch (torch, torchvision)
 - scikit-learn
 - pandas
