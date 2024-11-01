@@ -5,3 +5,11 @@ It was assumed that variables such as average temperature, maximum temperature, 
 ## Dataset
 You can find it on the Meteorological Data Open Portal.
 For the price of cabbage, data was extracted from sites such as agricultural product distribution information.
+
+## Requirements
+- pytorch (torch, torchvision)
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn
